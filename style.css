@@ -1,10 +1,10 @@
 
-@import url("container.css");
-@import url("img.css");
-@import url("button.css");
-@import url("banner.css");
-@import url("banner-top.css");
-@import url("cards.css");
+@import url(container.css);
+@import url(img.css);
+@import url(button.css);
+@import url(banner.css);
+@import url(banner-top.css);
+@import url(cards.css);
 
 
 body {
